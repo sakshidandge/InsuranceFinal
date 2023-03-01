@@ -1,0 +1,11 @@
+C:\Users\1000074052\source\repos\AutoClaim\EmployeeService\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\1000074052\source\repos\AutoClaim\EmployeeService\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\1000074052\source\repos\AutoClaim\EmployeeService\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\1000074052\source\repos\AutoClaim\EmployeeService\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\1000074052\source\repos\AutoClaim\EmployeeService\bin\Debug\netcoreapp2.1\AutoClaim_Test.deps.json
+C:\Users\1000074052\source\repos\AutoClaim\EmployeeService\bin\Debug\netcoreapp2.1\AutoClaim_Test.runtimeconfig.json
+C:\Users\1000074052\source\repos\AutoClaim\EmployeeService\bin\Debug\netcoreapp2.1\AutoClaim_Test.runtimeconfig.dev.json
+C:\Users\1000074052\source\repos\AutoClaim\EmployeeService\bin\Debug\netcoreapp2.1\AutoClaim_Test.dll
+C:\Users\1000074052\source\repos\AutoClaim\EmployeeService\obj\Debug\netcoreapp2.1\AutoClaim_Test.csproj.CoreCompileInputs.cache
+C:\Users\1000074052\source\repos\AutoClaim\EmployeeService\obj\Debug\netcoreapp2.1\AutoClaim_Test.AssemblyInfoInputs.cache
+C:\Users\1000074052\source\repos\AutoClaim\EmployeeService\obj\Debug\netcoreapp2.1\AutoClaim_Test.AssemblyInfo.cs

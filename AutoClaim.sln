@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoClaim", "AutoClaim\AutoClaim.csproj", "{B393011A-7876-4B48-B72B-0299C0DC0F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoClaim_Test", "EmployeeService\AutoClaim_Test.csproj", "{0F4F3BCA-124C-47CF-8026-BF65B4E11891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B393011A-7876-4B48-B72B-0299C0DC0F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B393011A-7876-4B48-B72B-0299C0DC0F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B393011A-7876-4B48-B72B-0299C0DC0F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B393011A-7876-4B48-B72B-0299C0DC0F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4F3BCA-124C-47CF-8026-BF65B4E11891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4F3BCA-124C-47CF-8026-BF65B4E11891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4F3BCA-124C-47CF-8026-BF65B4E11891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4F3BCA-124C-47CF-8026-BF65B4E11891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FDE116F-7E99-45E9-AAD0-A9BBC5996045}
+	EndGlobalSection
+EndGlobal
